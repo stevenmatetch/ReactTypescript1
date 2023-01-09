@@ -1,0 +1,28 @@
+.div{
+    background-color: blue;
+    height: 100px;
+    max-width: 100px;
+    margin: 10px;
+}
+
+.green{
+    background-color: green;
+    height: 100px;
+    max-width: 100px;
+}
+
+.black{
+    background-color: black;
+    height: 100px;
+    max-width: 100px;
+}
+
+.orange{
+    background-color: orange;
+    height: 100px;
+    max-width: 100px;
+}
+
+.flex1{
+    display: flex;   
+}
